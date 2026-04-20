@@ -1,0 +1,6 @@
+playwright-login-automation/
+│── tests/
+│   └── login.spec.js
+│── package.json
+│── README.md
+│── .gitignore
