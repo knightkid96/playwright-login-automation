@@ -1,0 +1,11 @@
+{
+  "name": "playwright-login-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation test for login functionality",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
